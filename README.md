@@ -1,10 +1,10 @@
-# SR_Tesla_DataEngineering
-Please write an application in python language that calls the USGS API and store the result in a relational database of your choice.
+# SR_DataEngineering
+A python language application that calls the USGS API and stores the result in a relational database.
 
 https://earthquake.usgs.gov/fdsnws/event/1/
 
 
-1) Please query all events that have occurred during year 2017
+1) All events that have occurred during year 2017 are qurried
 
 2) Read a JSON response from the API
 
@@ -27,7 +27,4 @@ For question 6 and 7 provide following
 
     Queries for the analysis
     Any interesting visualization (using any open source product or trial version of any product) for these questions. Just attach screenshot.
-
-
-Thanks and Regards,
-Srikanth Kotipalli.
+    
